@@ -27,7 +27,7 @@
   
   ---
   
-  ## 📚 React Concepts Covered
+  ##  React Concepts Covered
   
   - **Components** – Modular UI building blocks
   - **useState** – Manage local state for movies, search results, and favorites
@@ -37,7 +37,7 @@
   
   ---
   
-  ## 🔑 Getting Started
+  ##  Getting Started
   
   ### 1. Clone the repository
   ```bash
@@ -62,7 +62,7 @@
 
 ---
 
- ## 🖥️ Project Structure
+ ## 🖥 Project Structure
   ```graphql
   src/
   │── components/        # Reusable components (MovieCard, Header, etc.)
@@ -75,7 +75,7 @@
 
 ---
 
-  ## 🌟 Learning Outcomes
+  ##  Learning Outcomes
   - Breaking UI into reusable components
   
   - Managing local and global state
@@ -89,8 +89,12 @@
   - Clean project structure for scalability
 
 ---
-  ## 📬 Contact
-  If you’d like to discuss React, movie apps, or frontend development, feel free to connect with me:
-  
-  Dattu
-  LinkedIn | GitHub
+
+## 📬 Contact
+
+💡 Let’s connect and talk about web development, React, and creative coding ideas!
+
+- **Name:** Dattu  
+- **GitHub:** [github.com/dattu145](https://github.com/dattu145)  
+- **LinkedIn:** [linkedin.com/in/datta-vignesh-b09437223](https://www.linkedin.com/in/datta-vignesh-b09437223/)  
+- **Email:** dattavignesh001@gmail.com
