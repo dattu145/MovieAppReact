@@ -5,7 +5,7 @@
   
   ---
   
-  ## 🚀 Features
+  ##  Features
   
   - **Home Page** – Displays a list of movies fetched from the TMDB API.
   - **Search Bar** – Search for any movie by title using TMDB's search API.
@@ -17,7 +17,7 @@
   
   ---
   
-  ## 🛠️ Technologies Used
+  ##  Technologies Used
   
   - **React** – Frontend library
   - **React Router** – Client-side routing
@@ -34,12 +34,6 @@
   - **useEffect** – Fetch data on load and handle localStorage
   - **Context API** – Share global favorites data across components
   - **React Router** – Navigation between pages without refresh
-  
-  ---
-  
-  ## 📷 Screenshots
-  
-  *(Add your screenshots here)*
   
   ---
   
@@ -65,6 +59,9 @@
   ```bash
   npm run dev
 ```
+
+---
+
  ## 🖥️ Project Structure
   ```graphql
   src/
@@ -75,6 +72,9 @@
   │── index.jsx          # Entry point
   │── App.css            # Styles
 ```
+
+---
+
   ## 🌟 Learning Outcomes
   - Breaking UI into reusable components
   
@@ -87,7 +87,8 @@
   - Fetching & integrating third-party APIs
   
   - Clean project structure for scalability
-  
+
+---
   ## 📬 Contact
   If you’d like to discuss React, movie apps, or frontend development, feel free to connect with me:
   
